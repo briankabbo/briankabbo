@@ -7,7 +7,7 @@ I'm a software developer focused on building **clean front-end experiences** and
 🤝 I'm looking for help with advanced .NET patterns and scaling backend systems<br>
 🌱 I'm currently learning AI integrations.<br>
 💬 Ask me about C#, React, Tailwind CSS, or getting started with AI in web apps<br>
-⚡ When I'm not coding, I'm editing videos, tweaking UI designs, or finding the perfect song. Because I think good software and good art follow the same rules
+⚡ When I'm not coding, I'm editing videos, tweaking UI designs, or trying to make music. Because I think good software and good art follow the same rules
 
 ---
 

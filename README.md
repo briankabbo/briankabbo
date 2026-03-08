@@ -1,3 +1,6 @@
+# Hi, I'm **Brian Kabbo Sarker** 👋
+I'm a software developer focused on building **clean front-end experiences** and **reliable backend systems** with C# and .NET. I'm currently a Trainee Software Developer @The Christian Co-operative Credit Union Ltd.
+
 # About Me:
 🔭 I'm currently working on various AI tools and web applications using .NET and C# as a Trainee Software Developer.<br>
 👯 I'm looking to collaborate on full-stack web projects, especially those combining clean UI with solid backend logic<br>

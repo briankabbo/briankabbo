@@ -17,9 +17,7 @@ I'm a software developer focused on building **clean front-end experiences** and
 ---
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=briankabbo&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=briankabbo&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=briankabbo&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com?user=briankabbo&theme=blue-navy&hide_border=false)<br/>
 
 ## 🤝 Let's Connect
 

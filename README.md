@@ -6,8 +6,8 @@ I'm a full-stack software developer focused on building with .NET and React. I'm
 👯 Looking to collaborate on full-stack software projects, especially those combining AI with traditional development.<br>
 🤝 I'm looking for help with advanced .NET patterns and scaling backend systems. <br>
 🌱 Currently learning AI integrations.<br>
-💬 Reach me via Email: braiankabbo@gmail.com <br>
-⚡ When I'm not coding, I'm editing videos, watching a movie, tweaking UI designs, or trying to make music. Because I think good software and good art follow the same rules
+⚡ When I'm not coding, I'm editing videos, watching a movie, tweaking UI designs, or trying to make music. Because I think good software and good art follow the same rules. <br>
+💬 Reach me via Email: braiankabbo@gmail.com 
 
 ---
 

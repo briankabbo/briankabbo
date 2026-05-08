@@ -3,10 +3,10 @@ I'm a full-stack software developer focused on building with .NET and React. I'm
 
 # About Me:
 🔭 Currently working on various AI tools and web applications using .NET and React as a Trainee Software Developer.<br>
-👯 Looking to collaborate on full-stack web projects, especially those combining clean UI with solid backend logic<br>
-🤝 I'm looking for help with advanced .NET patterns and scaling backend systems<br>
+👯 Looking to collaborate on full-stack software projects, especially those combining AI with traditional development.<br>
+🤝 I'm looking for help with advanced .NET patterns and scaling backend systems. <br>
 🌱 Currently learning AI integrations.<br>
-💬 Ask me about C#, React, Typescript, or getting started with AI in web apps<br>
+💬 Reach me via Email: braiankabbo@gmail.com <br>
 ⚡ When I'm not coding, I'm editing videos, watching a movie, tweaking UI designs, or trying to make music. Because I think good software and good art follow the same rules
 
 ---

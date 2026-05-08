@@ -6,8 +6,8 @@ I'm a full-stack software developer focused on building with .NET and React. I'm
 👯 Looking to collaborate on full-stack web projects, especially those combining clean UI with solid backend logic<br>
 🤝 I'm looking for help with advanced .NET patterns and scaling backend systems<br>
 🌱 Currently learning AI integrations.<br>
-💬 Ask me about C#, React, Tailwind CSS, or getting started with AI in web apps<br>
-⚡ When I'm not coding, I'm editing videos, tweaking UI designs, or trying to make music. Because I think good software and good art follow the same rules
+💬 Ask me about C#, React, Typescript, or getting started with AI in web apps<br>
+⚡ When I'm not coding, I'm editing videos, watching a movie, tweaking UI designs, or trying to make music. Because I think good software and good art follow the same rules
 
 ---
 

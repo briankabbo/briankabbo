@@ -1,8 +1,8 @@
 # Hi, I'm **Brian Kabbo** 👋
-I'm a software developer focused on building **clean front-end experiences** and **reliable backend systems** with C# and .NET. I'm currently a Trainee Software Developer @The Christian Co-operative Credit Union Ltd.
+I'm a full-stack software developer focused on building with .NET and React. I'm currently a Trainee Software Developer @The Christian Co-operative Credit Union Ltd.
 
 # About Me:
-🔭 Currently working on various AI tools and web applications using .NET and C# as a Trainee Software Developer.<br>
+🔭 Currently working on various AI tools and web applications using .NET and React as a Trainee Software Developer.<br>
 👯 Looking to collaborate on full-stack web projects, especially those combining clean UI with solid backend logic<br>
 🤝 I'm looking for help with advanced .NET patterns and scaling backend systems<br>
 🌱 Currently learning AI integrations.<br>

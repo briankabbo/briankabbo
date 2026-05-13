@@ -17,7 +17,7 @@ I'm a full-stack software developer focused on building with .NET and React. I'm
 [![My Skills](https://skillicons.dev/icons?i=tailwind,nodejs,postgres,mysql,redis)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=jest,git,github,docker,kubernetes)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vercel,azure)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma,notion,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,notion)](https://skillicons.dev)
 
 ---
 

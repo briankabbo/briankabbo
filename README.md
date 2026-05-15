@@ -2,7 +2,7 @@
 I'm a full-stack software developer focused on building with .NET and React. I'm currently a Trainee Software Developer @The Christian Co-operative Credit Union Ltd.
 
 # About Me:
-🔭 Currently working on various AI tools and web applications using .NET and React as a Trainee Software Developer.<br>
+🔭 Breaking things, fixing them & shipping with .NET + React .<br>
 👯 Looking to collaborate on full-stack software projects, especially those combining AI with traditional development.<br>
 🤝 I'm looking for help with advanced .NET patterns and scaling backend systems. <br>
 🌱 Currently learning AI integrations.<br>

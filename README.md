@@ -12,11 +12,11 @@ I'm a full-stack software developer focused on building with .NET and React. I'm
 ---
 
 ## 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,ts,python,js,tailwind&perline=7)
-![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,mysql,redis,jest&perline=5)
-![My Skills](https://skillicons.dev/icons?i=git,github,docker,kubernetes&perline=4)
-![My Skills](https://skillicons.dev/icons?i=vercel,azure)
-![My Skills](https://skillicons.dev/icons?i=figma,notion)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,ts,python,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,nodejs,postgres,mysql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,git,github,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,notion)](https://skillicons.dev)
 
 ---
 

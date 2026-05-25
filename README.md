@@ -22,7 +22,6 @@ I'm a full-stack software developer focused on building with .NET and React. I'm
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres "PostgreSQL")](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql "MySQL")](https://skillicons.dev)
 [![Redis](https://skillicons.dev/icons?i=redis "Redis")](https://skillicons.dev)
-[![Jest](https://skillicons.dev/icons?i=jest "Jest")](https://skillicons.dev)
 
 [![Git](https://skillicons.dev/icons?i=git "Git")](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github "GitHub")](https://skillicons.dev)

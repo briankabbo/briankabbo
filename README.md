@@ -1,5 +1,5 @@
 # Hi, I'm **Brian Kabbo** 👋
-I'm a full-stack software developer focused on building with .NET, TypeScript and React. I'm currently a Trainee Software Developer @The Christian Co-operative Credit Union Ltd.
+I'm a full-stack software developer focused on building with .NET, TypeScript and React. I'm currently a Trainee Software Developer **@The Christian Co-operative Credit Union Ltd.**
 
 # About Me:
 🔭 Breaking things, fixing them & shipping with .NET + React + TypeScript .<br>

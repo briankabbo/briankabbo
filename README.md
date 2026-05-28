@@ -27,7 +27,6 @@ I'm a full-stack software developer focused on building with .NET and React. I'm
 [![GitHub](https://skillicons.dev/icons?i=github "GitHub")](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker "Docker")](https://skillicons.dev)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes "Kubernetes")](https://skillicons.dev)
-[![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://skillicons.dev)
 [![Azure](https://skillicons.dev/icons?i=azure "Microsoft Azure")](https://skillicons.dev)
 [![Figma](https://skillicons.dev/icons?i=figma "Figma")](https://skillicons.dev)
 [![Notion](https://skillicons.dev/icons?i=notion "Notion")](https://skillicons.dev)

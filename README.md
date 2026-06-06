@@ -22,11 +22,9 @@ I'm a full-stack software engineer focused on building with .NET, TypeScript, an
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres "PostgreSQL")](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql "MySQL")](https://skillicons.dev)
 [![Redis](https://skillicons.dev/icons?i=redis "Redis")](https://skillicons.dev)
-
 [![Git](https://skillicons.dev/icons?i=git "Git")](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github "GitHub")](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker "Docker")](https://skillicons.dev)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes "Kubernetes")](https://skillicons.dev)
 [![Azure](https://skillicons.dev/icons?i=azure "Microsoft Azure")](https://skillicons.dev)
 [![Figma](https://skillicons.dev/icons?i=figma "Figma")](https://skillicons.dev)
 [![Notion](https://skillicons.dev/icons?i=notion "Notion")](https://skillicons.dev)

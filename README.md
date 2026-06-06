@@ -14,18 +14,21 @@ I'm a full-stack software engineer focused on building with .NET, TypeScript, an
 ## 🛠️ Tech Stack
 [![.NET](https://skillicons.dev/icons?i=dotnet ".NET")](https://skillicons.dev)
 [![C#](https://skillicons.dev/icons?i=cs "C#")](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python "Python")](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react "React")](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=python "Python")](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")](https://skillicons.dev)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://skillicons.dev)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres "PostgreSQL")](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql "MySQL")](https://skillicons.dev)
 [![Redis](https://skillicons.dev/icons?i=redis "Redis")](https://skillicons.dev)
+
 [![Git](https://skillicons.dev/icons?i=git "Git")](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github "GitHub")](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker "Docker")](https://skillicons.dev)
 [![Azure](https://skillicons.dev/icons?i=azure "Microsoft Azure")](https://skillicons.dev)
+[![Google Cloud Platform](https://skillicons.dev/icons?i=gcp "Google Cloud Platform")](https://skillicons.dev)
+[![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://skillicons.dev)
 [![Figma](https://skillicons.dev/icons?i=figma "Figma")](https://skillicons.dev)
 [![Notion](https://skillicons.dev/icons?i=notion "Notion")](https://skillicons.dev)
 

@@ -27,6 +27,7 @@ I'm a full-stack software engineer focused on building with .NET, TypeScript, an
 [![GitHub](https://skillicons.dev/icons?i=github "GitHub")](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker "Docker")](https://skillicons.dev)
 [![Azure](https://skillicons.dev/icons?i=azure "Microsoft Azure")](https://skillicons.dev)
+[![Supabase](https://skillicons.dev/icons?i=supabase "Supabase")](https://skillicons.dev)
 [![Google Cloud Platform](https://skillicons.dev/icons?i=gcp "Google Cloud Platform")](https://skillicons.dev)
 [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://skillicons.dev)
 [![Figma](https://skillicons.dev/icons?i=figma "Figma")](https://skillicons.dev)

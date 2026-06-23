@@ -1,6 +1,6 @@
 # Hi, I'm **Brian Kabbo** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" width="30" height="30" alt="👋">
-**Backend AI Engineer Intern** at [Flyrank AI](https://[flyrank.ai](https://flyrank.ai/)) <br>
-**Trainee Software Developer** at [The Christian Co-operative Credit Union Ltd.](https://[dhakacredit](https://www.cccul.com/))
+**Backend AI Engineer Intern** @ [Flyrank AI](https://[flyrank.ai](https://flyrank.ai/)) <br>
+**Trainee Software Developer** @ [The Christian Co-operative Credit Union Ltd.](https://[dhakacredit](https://www.cccul.com/))
 
 I build scalable backend systems and integrate LLMs into production workflows, primarily with .NET, TypeScript, and React.
 

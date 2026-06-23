@@ -1,13 +1,16 @@
 # Hi, I'm **Brian Kabbo** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" width="30" height="30" alt="👋">
-I'm a full-stack software engineer focused on building with .NET, TypeScript, and React. I'm currently a Trainee Software Developer **@The Christian Co-operative Credit Union Ltd.**
+**Backend AI Engineer Intern** at [Flyrank AI](https://[flyrank.ai](https://flyrank.ai/)) <br>
+**Trainee Software Developer** at [The Christian Co-operative Credit Union Ltd.](https://[dhakacredit](https://www.cccul.com/))
+
+I build scalable backend systems and integrate LLMs into production workflows, primarily with .NET, TypeScript, and React.
+
 
 # About Me:
-🔭 Breaking things, fixing them & shipping with .NET + React + TypeScript .<br>
-👯 Looking to collaborate on full-stack software projects, especially those combining AI with traditional development.<br>
+🔭  Currently focused on AI/LLM integrations and backend architecture.<br>
+👯 Open to collaborating on Full-stack or AI-powered applications.<br>
 🤝 I'm looking for help with advanced .NET patterns and scaling backend systems. <br>
-🌱 Currently learning AI integrations.<br>
-⚡ When I'm not coding, I'm editing videos, watching a movie, tweaking UI designs, or trying to make music. Because I think good software and good art follow the same rules. <br>
-💬 Reach me via twitter @BrianKabbo
+⚡ When I'm not coding, I'm watching movies, tweaking UI designs, or making music. Because I think good software and good art follow the same rules. <br>
+💬 Reach me via Twitter @BrianKabbo
 
 ---
 

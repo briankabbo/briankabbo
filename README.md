@@ -6,7 +6,7 @@ I build scalable backend systems and integrate LLMs into production workflows, p
 
 
 # About Me:
-🔭  Currently focused on AI/LLM integrations and backend architecture.<br>
+🔭  Currently focused on AI integrations and backend architecture.<br>
 👯 Open to collaborating on Full-stack or AI-powered applications.<br>
 🤝 I'm looking for help with advanced .NET patterns and scaling backend systems. <br>
 ⚡ When I'm not coding, I'm watching movies, tweaking UI designs, or making music. Because I think good software and good art follow the same rules. <br>

@@ -37,7 +37,7 @@ I build scalable backend systems and integrate LLMs into production workflows, p
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/brian-kabbo-sarker">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />

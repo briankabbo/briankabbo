@@ -14,7 +14,7 @@ I build scalable backend systems and integrate LLMs into production workflows, p
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 [![.NET](https://skillicons.dev/icons?i=dotnet ".NET")](https://skillicons.dev)
 [![C#](https://skillicons.dev/icons?i=cs "C#")](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=python "Python")](https://skillicons.dev)

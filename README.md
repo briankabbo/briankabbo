@@ -25,6 +25,8 @@ I build scalable backend systems and integrate LLMs into production workflows, p
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://skillicons.dev)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres "PostgreSQL")](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql "MySQL")](https://skillicons.dev)
+[![sqlite](https://skillicons.dev/icons?i=sqlite "sqlite")](https://skillicons.dev)
+
 
 [![Git](https://skillicons.dev/icons?i=git "Git")](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github "GitHub")](https://skillicons.dev)
